@@ -1,0 +1,16 @@
+body {
+  background-image: url("public/css/blue.jpg");
+  background-color:lightblue;
+ }
+
+.page-header { 
+	border-bottom:none; 
+}
+
+input:focus {
+    border:blue;
+}
+
+textarea {
+  width: 100%;
+}
